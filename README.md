@@ -10,7 +10,11 @@ Sign_in:
 Contact Form and Contact List Page:
        After successfully signing into the sign in Page, user will get the contact form and the contact list.
        In that contact Page user will get following fields regarding contacts field having name, phone number and email. Under table beneath that field containing the contacts of the user that has been saved until then.
+       
+I  uploaded the zip file without the .exe file to run the program user has to copy the .py file uploded 
+and run the program in any python idle if the program does not execute try to install pyqt5 and sqllite3 in the python
+      
              
        
-       Working of the contact app.
+Working of the contact app.
        The application has been saved in  uploaded documents at location named Dict Folder. By opening the application. User will,  get the Sign up form. If the user does not have an account, he will sign up into the account. After signing in. User wll get the following regarding contact form and the contact list page contains the add contacts and contacts of the user  in the Table.
